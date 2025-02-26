@@ -9,7 +9,7 @@ dependencies:
     specifier: ^1.7.0
     version: 1.7.0
   '@movie-web/providers':
-    specifier: github:sussy-code/providers
+    specifier: github:Pasithea0/smov-providers#production
     version: github.com/sussy-code/providers/0d43eceaf2edec2e22042e987b369357170da01f
   '@types/stremio-addon-sdk':
     specifier: ^1.6.11
